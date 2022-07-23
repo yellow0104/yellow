@@ -16,5 +16,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellow0104&show_icons=true&theme=radical)
  
   
- <strong>잘하지는 못하지만 노력하는 학생입니다!<strong/>
+<strong>
+잘하지는 못하지만 노력하는 학생입니다!<br>
+코딩언어를 배우느라 커밋잘못하는점 죄송합니다 :(<br>
+한번 다 마스터해보면 개인적으로 해보고싶었던 프로젝트 진행하겠습니다:)<br>
+
+<strong/>
 </p>
