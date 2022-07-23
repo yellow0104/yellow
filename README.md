@@ -13,5 +13,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellow0104&show_icons=true&theme=radical)
  
   
-<strong>잘하지는 못하지만 노력하는 학생입니다!<strong/>
+ <strong>잘하지는 못하지만 노력하는 학생입니다!<strong/>
 </p>
