@@ -12,8 +12,11 @@ hello world!<br>
 <strong>❤️my stack❤️</strong><br>
 <img src="https://img.shields.io/badge/-python-blue?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/><br><br>
-<strong>❤️my os❤️</strong><br>
+<strong>⚒️my os⚒️</strong><br>
 <img src="https://img.shields.io/badge/-python-blue?style=flat-square&logo=windows&logoColor=white"/>
+  
+<strong>🖥️my tools🖥️</strong><br>
+<img src="https://img.shields.io/badge/-python-blue?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellow0104)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellow0104&show_icons=true&theme=radical)
