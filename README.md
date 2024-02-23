@@ -22,8 +22,3 @@ hello world!<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellow0104)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellow0104&show_icons=true&theme=radical)
 <p align="center">
-  
-<strong>
-잘하지는 못하지만 노력하는 학생입니다!<br>
-언어를 배우느라 커밋 질이 떨어지는점 죄송합니다 :(<br>
-한번 다 마스터해보면 개인적으로 해보고싶었던 프로젝트 진행하겠습니다:)<br>
